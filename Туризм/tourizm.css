@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+@font-face{
+	font-family: RobotoR;
+	src: url(../fonts/Roboto-Regular.ttf);
+}
+
+html; body, main{
+	height: 100%;
+	font-family: RobotoR;
+}
+
+.first{
+	height: 100%;
+	background-image: url(../img/img1.jpg);
+	background-position: center;
+    
+}
